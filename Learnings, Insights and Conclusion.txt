@@ -1,0 +1,28 @@
+1. Learnings :-
+(i) Data Sourcing -> Gathered sales data from online platforms.
+(ii) Data Cleaning -> Organized and cleaned raw data for uniformity, accuracy, and consistency.
+(iii) Data Processing -> Utilized Excel functions to structure and prepare data for analysis by creating necessary columns.
+(iv) Data Analysis -> Employed pivot tables and charts to derive actionable insights.
+(v) Interactive Report -> Developed a dynamic report with visualizations to aid strategic decision-making.
+
+
+2. Insights :-
+(i) March experiences the highest sales volume with a significant increase in orders.
+(ii) Women account for approximately 65% of total buyers.
+(iii) 92% of orders are successfully delivered by Vrinda Store, ensuring a positive customer experience.
+(iv) Maharashtra, Karnataka, and Uttar Pradesh contribute to about 35% of total sales.
+(v) Adults aged 30-49 make up around 50% of the customer base.
+(vi) Amazon, Flipkart, and Myntra are the most trusted and favored by 80% of customers.
+(vii) The top three selling product categories are Sets, Kurtas, and Western Dresses.
+
+
+3. Conclusion :-
+To improve and grow sales in 2023, Vrinda Store should consider the following:
+
+(i) Launch March Promotions -> Launch special promotions and increase inventory for March.
+(ii) Expand Women's Range -> Expand women-centric products and personalize marketing for female customers.
+(iii) Maintain Delivery Rate -> Optimize logistics to sustain a 92% delivery success rate.
+(iv) Localize Marketing -> Tailor marketing campaigns for Maharashtra, Karnataka, and Uttar Pradesh.
+(v) Engage Adults (30-49) -> Stock products appealing to the 30-49 age group and create relevant content.
+(vi) Boost Online Presence -> Invest in advertising and visibility on Amazon, Flipkart, and Myntra, and encourage customer reviews.
+(vii) Promote Best-Sellers -> Highlight Set, Kurta, and Western Dress categories in marketing campaigns.
